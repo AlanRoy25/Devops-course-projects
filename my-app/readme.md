@@ -1,1 +1,1 @@
-this is a java maven program
+this is a java maven program, checking the webhooks from the github repo with the jenkins server,
